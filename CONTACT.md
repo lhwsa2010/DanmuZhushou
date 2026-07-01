@@ -1,4 +1,4 @@
 
 如果你有更多问题想要解答，请通过以下二维码联系我们：
 
-<img src="./Assets/wechat.png" width="400"></img>
+![./Assets/wechat.png](https://raw.giteeusercontent.com/lhwsa2010/DanmuZhushou/raw/main/Assets/wechat.png?metadata=eyJyIjoibWFpbiIsImZwIjoiQXNzZXRzL3dlY2hhdC5wbmciLCJ1aWQiOjkxOTM4NiwicGlkIjo0ODg1NTU0Niwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by0xMHQtMDE0IiwicnAiOiJyZXBvcy81Zi9kZC81ZmRkMTM0YmIwZDFjNmExZmU1Y2ZlMTUzNzgzM2VhODVlNGNjZDNlMTllYjMwZTk2NGVhZWVlNWI2ZGY2NzI3LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzgyOTA3MjAwfQ&signature=akXA7Ydfkp9Yd7_jOh7eyl734Y8RiBNl5lOr9JDc5_I)
