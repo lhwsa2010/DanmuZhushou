@@ -5,16 +5,13 @@
 | 平台标识 | 平台名称 | |
 | :----: | :----: | :----:|
 | douyin | 抖音 | ✅ |
-| shipinhao | 视频号 | [√] |
-| kuaishou | 快手 | [x] |
-| xiaohongshu | 小红书 | - [x] |
-| taobao | 淘宝 | - [√] |
+| shipinhao | 视频号 |✅|
+| kuaishou | 快手 | |
+| xiaohongshu | 小红书 | |
+| taobao | 淘宝 | |
 | jingdong | 京东 | |
 | pingduoduo | 拼多多 | |
 
-- [ ] dddd
-- [x] Maps integration
-- [√] Maps integration
 
 
 ### 联系我们
